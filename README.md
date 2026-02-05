@@ -3,7 +3,7 @@
 <br>
 
   
-<h3 style="font-size: 7; font-weight: bold;">💻 Tech Stack:</h3>
+<h3 style="font-size: 7; text-align: center; font-weight: bold;">💻 Tech Stack:</h3>
 
 <p align="center">
   
@@ -14,7 +14,7 @@
 </p>
 
   
-<h3 style="font-size: 7; font-weight: bold;">📊 GitHub Stats:</h3>
+<h3 style="font-size: 7; text-align: center; font-weight: bold;">📊 GitHub Stats:</h3>
 
 
 <p align="center">
@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 style="font-size: 7; font-weight: bold;">⌛ Hackatime Stats</h3>
+<h3 style="font-size: 7; text-align: center; font-weight: bold;">⌛ Hackatime Stats</h3>
 
 
 <p align="center">
