@@ -1,9 +1,14 @@
 <h3 style="font-size: 7; font-weight: bold;"> 💫 About Me:</h3>
 <br>- 🌐 I build small websites (HTML, CSS, JS)<br>- 🐍 I code in Python<br>- 🎮 I make small games<br>- 💻 Learning C++<br>
-<br>
+<br><br><br>
 
 <div align="center">
-  
+
+<h3 style="font-size: 7; font-weight: bold;">⌛ Hackatime Stats</h3>
+
+
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21819&api_domain=hackatime.hackclub.com&theme=darcula&layout=compact&langs_count=8" />
+  <br><br><br>
 <h3 style="font-size: 7; font-weight: bold;">💻 Tech Stack:</h3>
 
   
@@ -11,7 +16,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=black) 
 ![GameMaker](https://img.shields.io/badge/GameMaker-%23ED1C24.svg?style=for-the-badge&logo=gamemaker&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
-
+<br><br><br>
   
 <h3 style="font-size: 7; font-weight: bold;">📊 GitHub Stats:</h3>
 
@@ -23,10 +28,7 @@
 
 
 
-<h3 style="font-size: 7; font-weight: bold;">⌛ Hackatime Stats</h3>
 
-
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21819&api_domain=hackatime.hackclub.com&theme=darcula&layout=compact&langs_count=8" />
 
 
 </div>
