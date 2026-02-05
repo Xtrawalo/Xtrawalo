@@ -4,7 +4,10 @@
 <br>
 
 
-<h3 align="center"> # 💻 Tech Stack:</h3> 
+<h3 align="center"> 
+  
+# 💻 Tech Stack:  
+</h3> 
 <p align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -13,7 +16,9 @@
 
 </p>
 
-<h3 align="center"> # 📊 GitHub Stats:</h3>
+<h3 align="center"> 
+  
+# 📊 GitHub Stats:</h3>
 <p align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=xtrawalo&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
