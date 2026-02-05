@@ -1,5 +1,5 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h3 style="font-size: 7; font-weight: bold;"> 💫 About Me:</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>- 🌐 I build small websites (HTML, CSS, JS)<br>- 🐍 I code in Python<br>- 🎮 I make small games<br>- 💻 Learning C++<br>
+<h3 style="font-size: 7; font-weight: bold;"> 💫 About Me:</h3>
+<br>- 🌐 I build small websites (HTML, CSS, JS)<br>- 🐍 I code in Python<br>- 🎮 I make small games<br>- 💻 Learning C++<br>
 <br>
 
 <div align="center">
