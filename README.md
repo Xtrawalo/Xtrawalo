@@ -2,8 +2,9 @@
 <br>- 🌐 I build small websites (HTML, CSS, JS)<br>- 🐍 I code in Python<br>- 🎮 I make small games<br>- 💻 Learning C++<br>
 <br>
 
+<div align="center">
   
-<h3 style="font-size: 7; text-align: center; font-weight: bold;">💻 Tech Stack:</h3>
+<h3 style="font-size: 7; font-weight: bold;">💻 Tech Stack:</h3>
 
 <p align="center">
   
@@ -14,7 +15,7 @@
 </p>
 
   
-<h3 style="font-size: 7; text-align: center; font-weight: bold;">📊 GitHub Stats:</h3>
+<h3 style="font-size: 7; font-weight: bold;">📊 GitHub Stats:</h3>
 
 
 <p align="center">
@@ -26,10 +27,12 @@
 </p>
 
 
-<h3 style="font-size: 7; text-align: center; font-weight: bold;">⌛ Hackatime Stats</h3>
+<h3 style="font-size: 7; font-weight: bold;">⌛ Hackatime Stats</h3>
 
 
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21819&api_domain=hackatime.hackclub.com&theme=darcula&layout=compact&langs_count=8" />
 </p>
+
+</div>
 
