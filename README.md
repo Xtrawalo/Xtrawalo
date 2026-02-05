@@ -1,4 +1,5 @@
-<div margin-left="10">
+<div style="margin-left: 10;">
+
 <h3 style="font-size: 7; font-weight: bold;"> 💫 About Me:</h3>
 <br>- 🌐 I build small websites (HTML, CSS, JS)<br>- 🐍 I code in Python<br>- 🎮 I make small games<br>- 💻 Learning C++<br>
 <br></div>
